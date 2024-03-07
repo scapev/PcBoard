@@ -12,7 +12,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
+    background_style: bg-primary-about
     title: Precisa de uma reparação ou fabricar uma peça por medida
     text: Somos especializados e temos equipamento para fazer reballing, limpeza de fluidos via utra som, recuperação de dados e diagonostico de problemas. Fazemos e desenhamos peças em varios tipos de materiais como plastico, plastico biodegradavel, carbono e outros com altas resistencias a temperatura.
     actions:

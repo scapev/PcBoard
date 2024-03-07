@@ -133,7 +133,7 @@ sections:
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:geral@yfuria.pt
+      url: mailto:geral@furia.pt
     - title: Facebook
       icon: bi-facebook
       url: '#'
